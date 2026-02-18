@@ -1,7 +1,10 @@
 Data Analysis:
 [Kaggle_Data_Visualization](https://github.com/mlbvncs/Kaggle_Data_Visualization) • 
 [Kaggle_Data_Visualization](https://github.com/mlbvncs/Kaggle_Data_Visualization) • 
-[Titanic_Data_Analysis](https://github.com/mlbvncs/Titanic_Data_Analysis)
+[Titanic_Data_Analysis](https://github.com/mlbvncs/Titanic_Data_Analysis) • 
+[Playground Series *](https://github.com/CllsPy/hackathons/blob/main/Playground%20Series%20-%20Season%206%20Episode%202/feb-08th-2026.ipynb)
+
+*Projects that i only collaborated (Projetos em que somente colaborei).
 
 Full Stack:
 [Questions1](https://github.com/mlbvncs/Questions1) • 
@@ -31,4 +34,3 @@ Graphical user interface (GUI):
 [Conversion](https://github.com/mlbvncs/Conversion) • 
 [StarWars](https://github.com/mlbvncs/StarWars) • 
 [Pokedex](https://github.com/mlbvncs/Pokedex)
-

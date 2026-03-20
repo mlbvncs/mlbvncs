@@ -6,7 +6,7 @@ Data Analysis:
 [Brazilian_Championship_SeriesA_2025_Data_Analysis](https://github.com/mlbvncs/Brazilian_Championship_SeriesA_2025_Data_Analysis) • 
 [Customer_Shopping_Behavior_Data_Analysis](https://github.com/mlbvncs/Customer_Shopping_Behavior_Data_Analysis)
 
-*Projects that i only collaborated (Projetos em que somente colaborei).
+*Projects that i only collaborated.
 
 Full Stack:
 [Questions1](https://github.com/mlbvncs/Questions1) • 

@@ -1,6 +1,6 @@
 ### Malba Vinicius
 Hi, i'm an evolving data analyst!
 
-[curriculum (en)](https://github.com/mlbvncs/mlbvncs/blob/main/curriculum/Curriculum%20EN%20-%20Malba%20Vinicius%20Lopes%20Santos.pdf) • 
-[curriculum (pt_br)](https://github.com/mlbvncs/mlbvncs/blob/main/curriculum/Curr%C3%ADculo%20PT_BR%20-%20Malba%20Vinicius%20Lopes%20Santos.pdf) • 
+[curriculum (en)](https://drive.google.com/file/d/1IpS1VZGrO86ziJx0fT7EDhiR_YTbMU6A/view?usp=drive_link) • 
+[curriculum (pt_br)](https://drive.google.com/file/d/1SgIyGziYGGTNOKm7dXwuZaabfUCUtsvS/view?usp=drive_link) • 
 [medium](https://medium.com/@malbav100)

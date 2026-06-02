@@ -1,5 +1,5 @@
 ### Malba Vinicius
 Hi, i'm an Business Intelligence Analyst!
 
-[curriculum (en)](https://drive.google.com/file/d/1PxgAIOUw3rN5MTjVLx19OTe4fQpjyok4/view?usp=drive_link) • 
-[curriculum (pt_br)](https://drive.google.com/file/d/1FBMJ8_kDQEjyDLf3T93DZ9x9NBwAvNya/view?usp=drive_link) • 
+[curriculum (en)](https://docs.google.com/document/d/1Q2-2wwAf0DB2Gp0LyuyhR7fybn8HTuYn/preview) • 
+[curriculum (pt_br)](https://docs.google.com/document/d/1-OTOl5QVCOBKHFnY0kKyjbx8uicS50Ue/preview)

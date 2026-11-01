@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá!
+
+### Sobre mim
+- Sou um Engenheiro de Dados.
+- Sou graduando no Sistemas de Informação no IFAL.
+
+### Entre em contato
+- [Gmail](mailto:malbav100@gmail.com)
+- [Curriculum](https://docs.google.com/document/d/104XNS8vWekJmQSktHs24O5OCgC1jYzGn/edit?usp=sharing&ouid=106726254405772636328&rtpof=true&sd=true)
+- [LinkedIn](https://www.linkedin.com/in/malbavinicius)
+- [Medium](https://medium.com/@malbav100)
 
 <!--
 **mlbvncs/mlbvncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
